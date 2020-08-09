@@ -1,0 +1,5 @@
+Source,Destination,DestServer,Status
+\\Server-1\C$\Test\CopyData,C:\Test\DestData,Server-1,Source file missing or the network path was not found: \\Server-1\C$\Test\CopyData
+C:\Test\CopyData,C:\Test\DestData,localhost,Error on creating directory: \\localhost\C$\Test\DestData
+C:\Test\CopyData,C:\Test\DestData,Home-PC,Error on creating directory: \\Home-PC\C$\Test\DestData
+C:\Test\CopyData,C:\Test\DestData,Server10,Server not reachable: Server10
